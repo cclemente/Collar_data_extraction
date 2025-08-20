@@ -41,6 +41,8 @@ To use it you need to direct it to the video file of interest
 Then manually give it the start time for that video. 
 Output is a file with matlab fractional days, + XYZ accel data
 
+I have now added a file which aligns the drone videos automatically, and outputs the .csv and an image of the accel graph
+
 ### Notes on step 3
 + use local time for DSLR camera and chris's phone 
 + e.g. video_start_local <- as.POSIXct("2024-06-29 13:33:00", tz = "Africa/Johannesburg")
