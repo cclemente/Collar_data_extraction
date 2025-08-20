@@ -39,7 +39,7 @@ It will need to be edited for each collar, particularly with regard to the colla
 This step is where i try to extract the accel segment which corresponds to each video. It desperately needs to be automated, but right now i am doing it manually since i have only got it to work. Its currently at the debugging stage, since this is where i have been finding the errors in the steps above. 
 To use it you need to direct it to the video file of interest 
 Then manually give it the start time for that video. 
-
+Output is a file with matlab fractional days, + XYZ accel data
 
 ### Notes on step 3
 + use local time for DSLR camera and chris's phone 
