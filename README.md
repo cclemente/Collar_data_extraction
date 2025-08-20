@@ -41,7 +41,7 @@ To use it you need to direct it to the video file of interest
 Then manually give it the start time for that video. 
 Output is a file with matlab fractional days, + XYZ accel data
 
-- Step 3c_drone_align_video_accel
++ Step 3c_drone_align_video_accel
 I have now added a file which aligns the drone videos automatically, and outputs the .csv and an image of the accel graph
 
 ### Notes on step 3
